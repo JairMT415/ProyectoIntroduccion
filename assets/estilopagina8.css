@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align:center;
+    padding: 6.5px 100px 6.5px  100px
+}
+h2{
+    font-size: 20px;
+    font-family: Arial; 
+    font-weight: bold;
+    text-align:left ;
+    padding: 14px 100px 18px  300px;
+}
+
+h3{
+    font-size: 20px;
+    font-family: Arial; 
+    font-weight: bold;
+    text-align:left ;
+    padding: 14px 100px 8px  300px;
+}
+
+h4{
+    font-size: 14px;
+    font-family: Arial; 
+    font-weight: bold;
+    padding: 0px 100px 0px  100px;
+    text-align:center ;
+
+}
+
+
+
+
+
+body{
+    text-align: justify;
+    margin-bottom: 1.6px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.agrupar{
+    width: 960px;   
+    margin: 15px auto;
+    border: 1px solid #4c6edd;
+}
+
+.cabecera{
+    background-color: #3eda17;
+    border: 1px solid #4d4d4d;
+    padding: 20px;  
+}
+.cabecera h1{
+    text-align: left;
+}
+
+.menu{
+    background-color: #e4f35e;
+    padding: 15px; 
+    text-align: left;
+}
+.menu li{
+    list-style: none;
+    padding: 5px;
+    font: bold 14px arial;
+    display: inline-block;
+}
+.seccion
+{
+    padding: 0px 100px 0px  100px;
+    text-align:justify ;
+
+}
+.titulos2{
+    
+    padding: 0px 100px 0px  100px;
+    text-align:justify;
+
+}
+.titulos2 a{
+   
+    padding: 0px 50px 0px  50px;
+    display: list-item;
+    margin-bottom: 6.0px
+}
+time
+{
+   
+    color: #d63031;
+
+}
+
+.pie{
+    clear: both;
+    padding: 20px;
+    background-color: #ff7675;
+    text-align:justify;
+}
+
+.titulos1{
+    text-align:justify;
+    padding: 10px 100px 10px  100px;
+
+}
+p {
+
+    padding: 3px 300px 3px 300px;
+}
+
+a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0px 10px 5px 10px;
+    display: list-item;
+    margin-bottom: 4.0px
+}
+
+
+img{
+    width: 380px;
+    height: 280px;
+    display: block;
+    margin:20px auto;
+    
+}
