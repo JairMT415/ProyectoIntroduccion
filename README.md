@@ -1,2 +1,0 @@
-# ProyectoIntroduccion
-Jair Monserrate
